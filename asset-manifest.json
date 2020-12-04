@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/damardika/ujian_react2.git/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/damardika/ujian_react2.git/static/js/main.275d12eb.chunk.js",
-    "main.js.map": "/damardika/ujian_react2.git/static/js/main.275d12eb.chunk.js.map",
-    "runtime-main.js": "/damardika/ujian_react2.git/static/js/runtime-main.132cbc3d.js",
-    "runtime-main.js.map": "/damardika/ujian_react2.git/static/js/runtime-main.132cbc3d.js.map",
-    "static/js/2.3c8c4a8d.chunk.js": "/damardika/ujian_react2.git/static/js/2.3c8c4a8d.chunk.js",
-    "static/js/2.3c8c4a8d.chunk.js.map": "/damardika/ujian_react2.git/static/js/2.3c8c4a8d.chunk.js.map",
-    "static/js/3.e278cd00.chunk.js": "/damardika/ujian_react2.git/static/js/3.e278cd00.chunk.js",
-    "static/js/3.e278cd00.chunk.js.map": "/damardika/ujian_react2.git/static/js/3.e278cd00.chunk.js.map",
-    "index.html": "/damardika/ujian_react2.git/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/damardika/ujian_react2.git/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.3c8c4a8d.chunk.js.LICENSE.txt": "/damardika/ujian_react2.git/static/js/2.3c8c4a8d.chunk.js.LICENSE.txt"
+    "main.css": "/ujian_react2/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ujian_react2/static/js/main.275d12eb.chunk.js",
+    "main.js.map": "/ujian_react2/static/js/main.275d12eb.chunk.js.map",
+    "runtime-main.js": "/ujian_react2/static/js/runtime-main.cd84c242.js",
+    "runtime-main.js.map": "/ujian_react2/static/js/runtime-main.cd84c242.js.map",
+    "static/js/2.3c8c4a8d.chunk.js": "/ujian_react2/static/js/2.3c8c4a8d.chunk.js",
+    "static/js/2.3c8c4a8d.chunk.js.map": "/ujian_react2/static/js/2.3c8c4a8d.chunk.js.map",
+    "static/js/3.e278cd00.chunk.js": "/ujian_react2/static/js/3.e278cd00.chunk.js",
+    "static/js/3.e278cd00.chunk.js.map": "/ujian_react2/static/js/3.e278cd00.chunk.js.map",
+    "index.html": "/ujian_react2/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ujian_react2/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3c8c4a8d.chunk.js.LICENSE.txt": "/ujian_react2/static/js/2.3c8c4a8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.132cbc3d.js",
+    "static/js/runtime-main.cd84c242.js",
     "static/js/2.3c8c4a8d.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.275d12eb.chunk.js"
